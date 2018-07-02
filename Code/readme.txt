@@ -12,5 +12,5 @@ We only approvide the main interfaces of our approach.
 ===============================
 Note:
 1. The source code is tested on Matlab R2015B
-2. Before running the interfaces, you need to unzip some files and add Full Path on the tool folder.
+2. Before running the interfaces, you need to unzip some files and add Full Path of the tool folder in Matlab.
 ===============================
