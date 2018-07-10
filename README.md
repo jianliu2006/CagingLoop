@@ -4,7 +4,7 @@ This is an Matlab implementation of the paper "[Caging Loops in Shape Embedding 
 Note that the current version approvides only the main interfaces of CagingLoop.The main interfaces include grasping space construction, p-based distance field computation, saddle points detection and caging loop generation.
 
 ## Usage
-cagingLoop should be run with Matlab R2015B. A function Libraries implemented with Matlab are provided in the folder of tool.
+CagingLoop should be run with Matlab R2015B. A function Library implemented with Matlab is provided in the folder of tool.
 Before running the main interfaces of CagingLoop, you need to add Full Path of the tool folder in Matlab.
 
 1. run pointCloudVoxelizationByRBF.m to discretize the grasping space based on RBF
