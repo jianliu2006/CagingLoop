@@ -1,7 +1,7 @@
 # CagingLoop in Matlab
 This is an Matlab implementation of the paper "[Caging Loops in Shape Embedding Space: Theory and Computation](https://kevinkaixu.net/papers/liu_icra18_grasp.pdf)". The paper is about synthesizing feasible caging grasps for a target object through computing Caging Loops, a closed curve defined in the shape embedding space of the object. This code was originally written by Jian Liu from Shan Dong University and is being improved and maintained here in this repository.
 
-Note that the current version approvides only the main interfaces of CagingLoop.The main interfaces include grasping space construction, p-based distance field computation, saddle points detection and caging loop generation.
+Note that the current version approvides the main interfaces of CagingLoop.The main interfaces include grasping space construction, p-based distance field computation, saddle points detection and caging loop generation.
 
 ## Usage
 CagingLoop should be run with Matlab R2015B. A function Library implemented with Matlab is provided in the folder of tool.
