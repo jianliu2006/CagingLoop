@@ -4,15 +4,14 @@ The source code of the paper named Caging Loops in Shape Embedding Space: Theory
 # Usage
 
 # Citation
-If you use this code, please cite the following paper.
-
-@article{liu2018RopeCA,
-  title={Caging Loops in Shape Embedding Space: Theory and Computation},
-  author={Jian Liu and Shiqing Xin and Zengfu Gao and Kai Xu and Changhe Tu and Baoquan Chen},
-  journal={2018 IEEE International Conference on Robotics and Automation (ICRA)},
-  year={2018},
-  pages={?}
-}
+If you use this code, please cite the following paper.  
+@article{liu2018RopeCA,  
+  title={Caging Loops in Shape Embedding Space: Theory and Computation},  
+  author={Jian Liu and Shiqing Xin and Zengfu Gao and Kai Xu and Changhe Tu and Baoquan Chen},  
+  journal={2018 IEEE International Conference on Robotics and Automation (ICRA)},  
+  year={2018},  
+  pages={?}  
+}  
 Code instruction for Caging Loops in Shape Embedding Space: Theory and Computation.
 We only approvide the main interfaces of our approach.
 
