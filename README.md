@@ -5,6 +5,7 @@ The source code of the paper named Caging Loops in Shape Embedding Space: Theory
 
 # Citation
 If you use this code, please cite the following paper.
+
 @article{liu2018RopeCA,
   title={Caging Loops in Shape Embedding Space: Theory and Computation},
   author={Jian Liu and Shiqing Xin and Zengfu Gao and Kai Xu and Changhe Tu and Baoquan Chen},
